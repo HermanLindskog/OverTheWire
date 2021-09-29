@@ -1,0 +1,4 @@
+#The next flag/password was in the readme file and I used cat to read the file
+cat readme
+#Used ssh with the new login-name, and types in my new password ass credentials
+ssh -l bandit1 bandit.labs.overthewire.org -p 2220
